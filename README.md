@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently teaching myself basic computer science knowledge
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=tommyfan34)]()
+
