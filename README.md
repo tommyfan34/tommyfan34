@@ -1,20 +1,11 @@
-### Hi there 👋
+<div align="center">
+# Hi I'm Xiao Fan 👋
+</div>
+ 
+[Blog](http://fanxiao.tech)🏠
+[![Linkedin: xiaofan](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xiao-fan-6a21b7171/)](https://www.linkedin.com/in/xiao-fan-6a21b7171/)
+[![GitHub tommyfan34](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/tommyfan34)
+School at **California Institute of Technology**. Major in **Electrical Engineering**
 
-<!--
-**tommyfan34/tommyfan34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🌱 I’m currently teaching myself basic computer science knowledge
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=tommyfan34)]()
+<img  src="https://github-readme-stats.vercel.app/api?username=tommyfan34&show_icons=true&theme=tokyonight&icon_color=6392DF">
 
